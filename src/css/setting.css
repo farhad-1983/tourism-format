@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    perspective: 800px;
+}
 :root {
     --background-color: #E40613;
     --text-color: #E40613;
